@@ -6,3 +6,5 @@ Mars is not necessary a good place for my kids and my cat.
 I think Venus should be considered as a base too!
 I want to think again about going to mars, really.
 Let's find an idea for a rocket to go to mars.
+
+... here's a change that should show up on github :-)
