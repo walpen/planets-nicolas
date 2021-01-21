@@ -10,5 +10,14 @@ Let's find an idea for a rocket to go to mars.
 ... here's a change that should show up on github :-)
 Hello, this is Robert
 
+<<<<<<< HEAD
 Was that all? Maybe! Or maybe not. Or did I miss something?
+=======
+Was that all? Or did I miss something?  ... Yes, that's was it!!!
+
+This was added by Urs:
+Was that all? Maybe! Or did I miss something?
+>>>>>>> 9b4a2cd017dd2d56763f7da94f72239c4a84d4dd
 Hi, let's create a conflicht here. Have fun.
+
+Or let the conflict rest in peace .
